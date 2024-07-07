@@ -6,6 +6,7 @@
 - [Initial Release](#initial-release)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Results](#results)
 
 ## Overview
 
@@ -31,3 +32,7 @@ This release consists of RTL code for SPI slave and a linear testbench for verif
 After having downloaded the repository to your local machine, you can test/run the design using a simulator of your choice. Alternatively, if you have followed the installation steps:
 
 1. Run the shell script from the command line: `./simulate.sh`
+
+### Results
+![alt text](https://github.com/Subash792/SPI_Modules/blob/a6389c15883166aa2f31c59ea5138e3e8515edcd/SPI%20Slave%20simulation%20results.png)
+
