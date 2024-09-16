@@ -38,7 +38,7 @@ After having downloaded the repository to your local machine, you can test/run t
 ![alt text](https://github.com/Subash792/SPI_Modules/blob/a6389c15883166aa2f31c59ea5138e3e8515edcd/SPI%20Slave%20simulation%20results.png)
 
 #### SPI Master Functional Verification results
-![alt text]()
+![alt text](https://github.com/Subash792/SPI_Modules/blob/main/SPI%20Master%20simulation%20results.png)
 
 
 
