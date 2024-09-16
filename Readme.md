@@ -34,5 +34,12 @@ After having downloaded the repository to your local machine, you can test/run t
 1. Run the shell script from the command line: `./simulate.sh`
 
 ### Results
+#### SPI Slave Functional Verification results
 ![alt text](https://github.com/Subash792/SPI_Modules/blob/a6389c15883166aa2f31c59ea5138e3e8515edcd/SPI%20Slave%20simulation%20results.png)
+
+#### SPI Master Functional Verification results
+![alt text]()
+
+
+
 
