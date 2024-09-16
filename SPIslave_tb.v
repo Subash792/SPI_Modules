@@ -17,7 +17,7 @@ module spi_slave_tb;
   
   initial
     begin
-      $dumpfile("results.vcd");
+      $dumpfile("results_s.vcd");
       $dumpvars;
       clk = 1'b1;
       cs = 1'b1;

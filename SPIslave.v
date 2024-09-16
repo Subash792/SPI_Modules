@@ -1,4 +1,4 @@
-// Code your design here
+// SPI Slave
 module spi_slave (
     input clk,
 
